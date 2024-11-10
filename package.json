@@ -15,7 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "next build",
-    "export": "next build && next export"
+    "export": "next build && next export",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
